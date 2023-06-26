@@ -1,6 +1,3 @@
-# add docstring
-# add images to label
-
 import tkinter as tk
 from tkinter import messagebox
 from random import randint
@@ -233,6 +230,7 @@ class WordApp:
                 break
         self.slice_word(selected_word)
 
+
     def slice_word(self, selected_word):
         """
         Analyze the selected word and update the result label.
@@ -249,6 +247,7 @@ class WordApp:
             self.result_label.config(text=f"{selected_word}: {max_size}")
         else:
             self.result_label.config(text="")
+            
 
     def run(self):
         """
