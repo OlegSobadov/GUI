@@ -6,4 +6,5 @@
 |---|-------|----------|----------|
 | 1 | [toggle](./toggle/ReadMe.md) | [substring-app](./toggle/substring-app.py) |column - 1 more <br> image - cc
 |
+| 2 | [plot](./plot/name-sorting-game/ReadMe.md) | [name sorting n filtering](./plot/name-sorting-game/main.py) |<p>vis <br>plot - cc</p>|
 | ... | ... | ... |...|
